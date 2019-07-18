@@ -14,5 +14,5 @@ end
 
 mequa = Dog.new
 mequa.name = "Mequa"
-puts mequa.name
+mequa.name
 mequa.bark
