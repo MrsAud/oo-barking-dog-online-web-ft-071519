@@ -12,7 +12,8 @@ class Dog
   end
 end
 
-mequa = Dog.new
-mequa.name = "Mequa"
-mequa.name
-mequa.bark
+## code testing
+# mequa = Dog.new
+# mequa.name = "Mequa"
+# mequa.name
+# mequa.bark
