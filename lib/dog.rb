@@ -12,3 +12,6 @@ class Dog
   end
 end
 
+mequa = Dog.new
+mequa.name
+mequa.bark
