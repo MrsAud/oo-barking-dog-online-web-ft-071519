@@ -13,5 +13,5 @@ class Dog
 end
 
 mequa = Dog.new
-mequa.name
+puts mequa.name
 mequa.bark
