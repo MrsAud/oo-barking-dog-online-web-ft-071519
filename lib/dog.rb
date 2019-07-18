@@ -15,5 +15,5 @@ end
 ## code testing
 # mequa = Dog.new
 # mequa.name = "Mequa"
-# mequa.name
-# mequa.bark
+# mequa.name #=> "Mequa"
+# mequa.bark #=> "woof!"
